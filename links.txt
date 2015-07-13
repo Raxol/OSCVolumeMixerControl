@@ -1,0 +1,15 @@
+Useful/Helpful Links
+
+TouchOSC
+http://hexler.net/docs/touchosc-controls-reference
+http://hexler.net/docs/touchosc-configuration-connections-osc
+
+OSC Library
+http://www.varcholik.org/OSC/2.0/doc/
+https://bitbucket.org/pvarcholik/bespoke.osc
+
+Coreaudio Wrapper
+http://whenimbored.xfx.net/2011/01/core-audio-for-net/
+
+Zeroconf (can be used later on, this way the app and iphone can find each other with out the need of the user to type in the ip)
+http://www.mono-project.com/archived/monozeroconf/
